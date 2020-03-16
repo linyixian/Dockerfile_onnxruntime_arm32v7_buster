@@ -1,7 +1,7 @@
 # Dockerfile_onnxruntime_arm32v7 for buster
 
 Onnxruntimeのビルド用Dockerfileです。
-Raspberrypi4およびRaspberrypi3+Raspbian（buster）で利用できるプロジェクトWhlをビルドします。
+Raspberrypi4およびRaspberrypi3+Raspbian（buster）で利用できるプロジェクトをビルドします。
 
 動作確認はHyper-V上にUbuntu19.10+dockerCEをインストールしてビルドを確認しました。
 
